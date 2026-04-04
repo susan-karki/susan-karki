@@ -23,9 +23,10 @@
 ---
 
 ## 📦 My Repositories
-[![Portfolio](https://img.shields.io/badge/Portfolio-View-blue?style=for-the-badge&logo=github)](https://github.com/susan-karki)  
-[![Web Projects](https://img.shields.io/badge/Web_Projects-View-green?style=for-the-badge&logo=github)](https://github.com/susan-karki)  
-[![DSA Practice](https://img.shields.io/badge/DSA-View-orange?style=for-the-badge&logo=github)](https://github.com/susan-karki)
+[![Employee Management](https://img.shields.io/badge/EmployeeManagement-View-blue?style=for-the-badge&logo=github)](https://github.com/susan-karki/EmployeeManagement)  
+[![Classification Practice](https://img.shields.io/badge/Classification_Practice-View-green?style=for-the-badge&logo=github)](https://github.com/susan-karki/Classification-and-other-practice)  
+[![Train Dataset Prediction](https://img.shields.io/badge/Train_Dataset-Prediction-orange?style=for-the-badge&logo=github)](https://github.com/susan-karki/Train-dataset-predicated)  
+[![Chatbot](https://img.shields.io/badge/Chatbot-View-purple?style=for-the-badge&logo=github)](https://github.com/susan-karki/chatbot)
 
 ---
 
