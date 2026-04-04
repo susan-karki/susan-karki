@@ -22,9 +22,10 @@
 
 ---
 
-## 📊 GitHub Stats
-![Susan's GitHub stats](https://github-readme-stats.vercel.app/api?username=susan-karki&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=susan-karki&layout=compact&theme=tokyonight)
+## 📦 My Repositories
+[![Portfolio](https://img.shields.io/badge/Portfolio-View-blue?style=for-the-badge&logo=github)](https://github.com/susan-karki)  
+[![Web Projects](https://img.shields.io/badge/Web_Projects-View-green?style=for-the-badge&logo=github)](https://github.com/susan-karki)  
+[![DSA Practice](https://img.shields.io/badge/DSA-View-orange?style=for-the-badge&logo=github)](https://github.com/susan-karki)
 
 ---
 
