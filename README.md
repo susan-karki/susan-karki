@@ -23,15 +23,16 @@
 ---
 
 ## 📊 GitHub Stats
-![Susan's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight)
+![Susan's GitHub stats](https://github-readme-stats.vercel.app/api?username=susan-karki
+&show_icons=true&theme=tokyonight&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=susan-karki
+&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
 
-## 📫 Connect With Me
-- ✉️ Email: your-email@example.com  
-- 🌐 GitHub: https://github.com/your-username  
+## 🌐 Connect With Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Susan%20Karki-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/susan-karki-08a995322/)
 
 ---
 
