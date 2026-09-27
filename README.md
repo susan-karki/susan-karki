@@ -2,18 +2,20 @@
   <img src="https://raw.githubusercontent.com/YOUR-USERNAME/YOUR-REPO-NAME/main/assets/stars-header.svg" width="100%" alt="header"/>
 </div>
 
-<br/>
-
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/213760677-e45ca5f7-d1aa-4c2c-91e0-573819287304.gif" width="320" alt="coding illustration"/>
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=24&pause=1000&color=A29BFE&center=true&vCenter=true&width=500&lines=.NET+Core+Developer;Angular+Full+Stack+Developer;React+%7C+SQL+Server+%7C+Linux" alt="Typing SVG" />
 </div>
 
 <br/>
 
-<h3 align="center">Full Stack Developer building with .NET Core & Angular</h3>
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/213760710-201a57d2-95f1-45c7-b910-44faf209d2f8.gif" width="320" alt="coding illustration"/>
+</div>
+
+<br/>
 
 <p align="center">
-I also work with React, SQL Server, and Linux — and enjoy writing clean, efficient code across the stack.
+Full Stack Developer building with .NET Core &amp; Angular — also comfortable with React, SQL Server, and Linux, and I enjoy writing clean, efficient code across the stack.
 </p>
 
 <br/>
